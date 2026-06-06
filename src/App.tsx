@@ -36,27 +36,27 @@ import {
   ChevronUp
 } from "lucide-react";
 
-const wagnerImage = "/src/assets/images/wagner_family_photo_1780755678203.png";
-const fatherSonImage = "/src/assets/images/father_son_talk_1780751117451.png";
-const fatherReflectiveImage = "/src/assets/images/father_reflective_1780751353697.png";
-const fatherObservingSonImage = "/src/assets/images/father_observing_son_1780751581582.png";
-const fatherSonBalconyImage = "/src/assets/images/father_son_balcony_1780751762322.png";
-const fatherSonHugImage = "/src/assets/images/father_son_hug_1780751927945.png";
-const caseStudyMotherSonImage = "/src/assets/images/case_study_mother_son_1780752395725.png";
-const caseStudyFatherSonParkImage = "/src/assets/images/case_study_father_son_park_1780752409520.png";
-const caseStudyFamilyDinnerImage = "/src/assets/images/case_study_family_dinner_1780752423752.png";
+import wagnerImage from "./assets/images/wagner_family_photo_1780755678203.png";
+import fatherSonImage from "./assets/images/father_son_talk_1780751117451.png";
+import fatherReflectiveImage from "./assets/images/father_reflective_1780751353697.png";
+import fatherObservingSonImage from "./assets/images/father_observing_son_1780751581582.png";
+import fatherSonBalconyImage from "./assets/images/father_son_balcony_1780751762322.png";
+import fatherSonHugImage from "./assets/images/father_son_hug_1780751927945.png";
+import caseStudyMotherSonImage from "./assets/images/case_study_mother_son_1780752395725.png";
+import caseStudyFatherSonParkImage from "./assets/images/case_study_father_son_park_1780752409520.png";
+import caseStudyFamilyDinnerImage from "./assets/images/case_study_family_dinner_1780752423752.png";
 
-const avatarMarcelo = "/src/assets/images/avatar_marcelo_1780754251873.png";
-const avatarAdriana = "/src/assets/images/avatar_adriana_1780754265749.png";
-const avatarCarlos = "/src/assets/images/avatar_carlos_1780754278672.png";
-const avatarJuliana = "/src/assets/images/avatar_juliana_1780754290953.png";
-const avatarRoberto = "/src/assets/images/avatar_roberto_1780754304070.png";
+import avatarMarcelo from "./assets/images/avatar_marcelo_1780754251873.png";
+import avatarAdriana from "./assets/images/avatar_adriana_1780754265749.png";
+import avatarCarlos from "./assets/images/avatar_carlos_1780754278672.png";
+import avatarJuliana from "./assets/images/avatar_juliana_1780754290953.png";
+import avatarRoberto from "./assets/images/avatar_roberto_1780754304070.png";
 
-const wpAvatarEduardo = "/src/assets/images/wp_avatar_eduardo_1780754512905.png";
-const wpAvatarSandra = "/src/assets/images/wp_avatar_sandra_1780754526148.png";
-const wpAvatarVanessa = "/src/assets/images/wp_avatar_vanessa_1780754539705.png";
-const wpAvatarGustavo = "/src/assets/images/wp_avatar_gustavo_1780754552195.png";
-const wpAvatarFernando = "/src/assets/images/wp_avatar_fernando_1780754564945.png";
+import wpAvatarEduardo from "./assets/images/wp_avatar_eduardo_1780754512905.png";
+import wpAvatarSandra from "./assets/images/wp_avatar_sandra_1780754526148.png";
+import wpAvatarVanessa from "./assets/images/wp_avatar_vanessa_1780754539705.png";
+import wpAvatarGustavo from "./assets/images/wp_avatar_gustavo_1780754552195.png";
+import wpAvatarFernando from "./assets/images/wp_avatar_fernando_1780754564945.png";
 
 // Types for Diagnostic Quiz
 interface QuizQuestion {
