@@ -1,0 +1,6 @@
+{
+  "name": "A Primeira Voz",
+  "description": "Recupere sua influência emocional e seja a primeira voz na vida do seu filho.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
